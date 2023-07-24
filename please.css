@@ -1,0 +1,11 @@
+a {
+    font-size: 30px;
+    color:teal;
+}
+p a {
+    font-weight: bold;
+    color: blue;
+}
+#dislikes a {
+    color:red;
+}
